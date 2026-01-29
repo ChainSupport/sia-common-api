@@ -1,1 +1,2 @@
 # sia-common-api
+This repository will provide APIs for the Sia network services hostd, walletd, and indexd, implemented using TypeScript. In the future, it will support APIs for more Sia community products.
